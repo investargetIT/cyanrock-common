@@ -1,6 +1,6 @@
-package com.cyanrock.common.vo.api;
+package com.cyanrocks.common.vo.api;
 
-import com.cyanrock.oms.common.em.ResCodeEnum;
+import com.cyanrocks.common.em.ResCodeEnum;
 
 /**
  * 请求响应数据传输JSON统一数据结构

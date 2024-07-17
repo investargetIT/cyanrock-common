@@ -1,4 +1,4 @@
-package com.cyanrock.common.vo.api;
+package com.cyanrocks.common.vo.api;
 
 import java.util.Collections;
 import java.util.List;

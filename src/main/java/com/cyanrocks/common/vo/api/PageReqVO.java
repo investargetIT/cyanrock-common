@@ -1,4 +1,4 @@
-package com.cyanrock.common.vo.api;
+package com.cyanrocks.common.vo.api;
 
 import javax.validation.constraints.NotNull;
 

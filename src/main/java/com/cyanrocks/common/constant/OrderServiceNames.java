@@ -1,4 +1,4 @@
-package com.cyanrock.oms.common.constant;
+package com.cyanrocks.common.constant;
 
 /**
  * 订单服务列表

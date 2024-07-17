@@ -1,4 +1,4 @@
-package com.cyanrock.oms.common.em;
+package com.cyanrocks.common.em;
 
 /**
  * 接口响应状态码
