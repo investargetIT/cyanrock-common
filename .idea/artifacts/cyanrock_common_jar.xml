@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="cyanrock-common:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cyanrock_common_jar</output-path>
+    <root id="archive" name="cyanrock-common.jar">
+      <element id="module-output" name="cyanrock-common" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/javax/validation/validation-api/2.0.1.Final/validation-api-2.0.1.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
