@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d2453ff-c96c-4dc9-a36b-9d8eb5a3d694" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +40,9 @@
     "Maven.cyanrock-common [compile].executor": "Run",
     "Maven.cyanrock-common [install].executor": "Run",
     "Maven.cyanrock-common [package].executor": "Run",
+    "Maven.cyanrock-common [validate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/liuhanjia/IdeaProjects/cyanrock-common",
@@ -55,6 +59,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.cyanrocks.common.vo.api.oms" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,7 +82,7 @@
       <updated>1721105977315</updated>
       <workItem from="1721105978142" duration="1154000" />
       <workItem from="1721107541082" duration="9828000" />
-      <workItem from="1721624704421" duration="2840000" />
+      <workItem from="1721624704421" duration="9838000" />
     </task>
     <servers />
   </component>
